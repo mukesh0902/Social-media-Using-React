@@ -1,0 +1,39 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sidebarmenu {
+  min-height: 50rem;
+  width: 12rem !important;
+  min-width: 7rem;
+}
+
+.post-card {
+  margin: 1.2rem 4.1rem;
+}
+
+.responsebtns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.response-btn-col {
+  border: 1px solid rgb(74, 73, 73);
+  padding: 0.2rem;
+  border-radius: 2px;
+  background-color: rgb(226, 226, 236);
+}
+
+.responsebtn {
+  margin: 0px 1.2rem;
+}
+
+.create-post {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
