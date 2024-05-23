@@ -19,7 +19,7 @@ const Post = ({ post }) => {
         <p className="card-text">{post.body}</p>
 
         <p className="card-text hashtag">{post.tags} </p>
-        <div className="responsebtns">
+        {/* <div className="responsebtns">
           <div className="container text-center">
             <div className="row">
               <div className="col response-btn-col">
@@ -57,7 +57,7 @@ const Post = ({ post }) => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
